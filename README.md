@@ -2,6 +2,7 @@ Damit könnt ihr 6 ställige codes erstellen die dan speler einlösen können um
 
 
 Befehle:
+
 -generate_money_key + die anzahl an Money
 
 -generate_weapon_key + waffename
